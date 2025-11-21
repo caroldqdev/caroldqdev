@@ -19,7 +19,7 @@
 
 Sou a Carol, estudante de Engenharia de Software, produteira e exploradora oficial desse universo maluco da tecnologia.  
 
-Apaixonada por IA aplicada, product management, UX/UI, Senhor dos Anéis e… meu gato Copérnico, especialista de QA dos meus commits (ele trabalha bastante) 🐈‍⬛
+Apaixonada Product/Project Management, UX/UI, Senhor dos Anéis e… meu gato Copérnico, especialista de QA dos meus commits (ele trabalha bastante) 🐈‍⬛
 
 </br>
 
