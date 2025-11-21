@@ -24,7 +24,7 @@ Sou a Carol, estudante de Engenharia de Software, produteira e exploradora ofici
 
 Atualmente rodando como **v22.0 ⚠️ ainda em beta**, cultivando bugs e aprendendo um pouco mais a cada commit 🙂  
 
-Apaixonada por IA aplicada, produtos digitais, product management, UX/UI, observação do céu e… meu gato Copérnico, CEO de QA dos meus catmitts (ele trabalha bastante) 🐈‍⬛
+Apaixonada por IA aplicada, product management, UX/UI, Senhor dos Anéis e… meu gato Copérnico, especialista de QA dos meus catmitts (ele trabalha bastante) 🐈‍⬛
 
 </br>
 
