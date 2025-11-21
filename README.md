@@ -1,8 +1,5 @@
 </br>
 <div display="inline-block">
-
-  <h1 align="left">Carolina Quintana</h1>
-
   <a href="https://www.linkedin.com/in/carolina-dubezkyj-quintana">
     <img align="left" width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
