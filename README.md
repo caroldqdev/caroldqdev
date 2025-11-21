@@ -19,9 +19,7 @@
 
 Sou a Carol, estudante de Engenharia de Software, produteira e exploradora oficial desse universo maluco da tecnologia.  
 
-Atualmente rodando como **v22.0 ⚠️ ainda em beta**, cultivando bugs e aprendendo um pouco mais a cada commit 🙂  
-
-Apaixonada por IA aplicada, product management, UX/UI, Senhor dos Anéis e… meu gato Copérnico, especialista de QA dos meus catmitts (ele trabalha bastante) 🐈‍⬛
+Apaixonada por IA aplicada, product management, UX/UI, Senhor dos Anéis e… meu gato Copérnico, especialista de QA dos meus commits (ele trabalha bastante) 🐈‍⬛
 
 </br>
 
@@ -57,7 +55,6 @@ Apaixonada por IA aplicada, product management, UX/UI, Senhor dos Anéis e… me
   <p align="left">💼 Há 6 semestres desenvolvendo soluções digitais personalizadas para empresas de pequeno, médio e grande porte no Paraná;</p>
   <p align="left">🧠 Dou aulas e palestras voluntárias sobre comunicação, sonhos, motivação e tecnologia;</p>
   <p align="left">🛰️ Viciada em observar o céu, jogar LOL, pintar paredes e fazer sopa nas horas vagas;</p>
-  <p align="left">⚙️ Atualmente operando em <code>try/learn/iterate</code> mode.</p>
 
 </div>
 
