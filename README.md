@@ -1,12 +1,4 @@
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <div display="inline-block">
 
   <h1 align="left">Carolina Quintana</h1>
