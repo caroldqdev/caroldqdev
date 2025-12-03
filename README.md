@@ -34,27 +34,26 @@ Apaixonada Product/Project Management, UX/UI, Senhor dos Anéis e… meu gato Co
   ### 🖥️ Tecnologias e Ferramentas:
 
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PYTHON"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="REACT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" title="REACT NATIVE"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NODE.JS"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JAVASCRIPT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FASTAPI"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="AZURE"/></code>
 
 </div>
 
 </br>
-</br>
 
 <div display="inline-block">
 
   ### 👤 Um pouquinho sobre meus projetos:
 
-  <p align="left">🚀 Trabalho com manufatura, produtos digitais, IA aplicada e iniciativas de inovação;</p>
+  <p align="left">🚀 Já trabalhei com manufatura, produtos digitais, IA aplicada e iniciativas de inovação em indústrias automotivas;</p>
   <p align="left">💼 Há 6 semestres desenvolvendo soluções digitais personalizadas para empresas de pequeno, médio e grande porte no Paraná;</p>
-  <p align="left">🧠 Dou aulas e palestras voluntárias sobre comunicação, sonhos, motivação e tecnologia;</p>
-  <p align="left">🛰️ Viciada em observar o céu, jogar LOL, pintar paredes e fazer sopa nas horas vagas;</p>
+  <p align="left">🧠 Dou aulas e palestras voluntárias sobre comunicação e tecnologia;</p>
+  <p align="left">🛰️ Viciada em observar o céu, ver The Office, pintar paredes e fazer sopa nas horas vagas;</p>
 
 </div>
 
